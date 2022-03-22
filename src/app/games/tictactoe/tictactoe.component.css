@@ -11,7 +11,4 @@ div {
 .leeg
 
 
-button {width: 60px;
-height: 30px;
-border-style: ridge;
-}
+button {size: 0px;}
